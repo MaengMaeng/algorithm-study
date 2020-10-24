@@ -1,0 +1,10 @@
+## 푼 문제
+- [12981 - 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
+- [42627 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+- [42628 - 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+- [42897 - 도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
+- [42898 - 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+- [49189 - 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+- [49191 - 순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
+- [60057 - 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+- [62050 - 지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)
